@@ -1,1 +1,1 @@
-# YOLO-CPVision
+![YOLO Illustration](https://cdn.prod.website-files.com/614c82ed388d53640613982e/65390c0119ee1e54a61cac91_evolution-yolo.webp)
